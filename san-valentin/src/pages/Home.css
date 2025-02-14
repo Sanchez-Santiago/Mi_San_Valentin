@@ -1,0 +1,79 @@
+.home-container {
+  text-align: center;
+  margin-top: 50px;
+  font-family: Arial, sans-serif;
+  transition: background 0.5s ease-in-out;
+  position: relative;
+  height: 100vh;
+}
+
+h1 {
+  animation: latidos 1s infinite alternate;
+}
+
+@keyframes latidos {
+  0% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(1.1);
+  }
+}
+
+.buttons {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  position: relative;
+}
+
+.btn {
+  font-size: 20px;
+  padding: 10px 20px;
+  margin: 10px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 0.3s ease-in-out;
+}
+
+.yes {
+  background-color: #ff69b4;
+  color: white;
+}
+
+.yes:hover {
+  background-color: #ff1493;
+}
+
+.no {
+  background-color: #d3d3d3;
+  color: black;
+}
+
+.no:hover {
+  background-color: #a9a9a9;
+}
+
+/* 🎥 Estilo para el video */
+/* Contenedor del video */
+.video-container {
+  position: relative;
+  width: 100%; 
+  padding-bottom: 56.25%; /* Esto es 9/16 * 100 (relación 16:9) */
+  max-width: 600px; /* Puedes limitar el ancho máximo si lo deseas */
+  margin: 20px auto;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+/* Video dentro del contenedor */
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 20px;
+}

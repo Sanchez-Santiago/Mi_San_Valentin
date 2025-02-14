@@ -1,0 +1,62 @@
+{
+  "poemas_amor": [
+    {
+      "titulo": "Soneto XVII de Pablo Neruda 🌹",
+      "autor": "Pablo Neruda",
+      "origen": "Chile, siglo XX",
+      "contenido": "No te amo como si fueras rosa de sal, topacio\nni flecha de claveles que propagan el fuego:\nte amo como se aman ciertas cosas oscuras,\nsecretamente, entre la sombra y el alma. 🌑\n\nTe amo como la planta que no florece y lleva\ndentro de sí, escondida, la luz de aquellas flores,\ny gracias a tu amor vive oscuro en mi cuerpo\nel apretado aroma que ascendió de la tierra. 🌱"
+    },
+    {
+      "titulo": "Gacela del amor imprevisto 🦌",
+      "autor": "Federico García Lorca",
+      "origen": "España, 1936",
+      "contenido": "Nadie comprendía el perfume\nde la oscura magnolia de tu vientre.\nNadie sabía que martirizabas\nun colibrí de amor entre los dientes. 💔\n\nMil caballitos persas se dormían\nen la plaza con luna de tu frente,\nmientras que yo enlazaba cuatro noches\ntu cintura, enemiga de la nieve. ❄️"
+    },
+    {
+      "titulo": "Canto a Shulgi (poema sumerio) 🌅",
+      "autor": "Enheduanna",
+      "origen": "Mesopotamia, 2285 a.C.",
+      "contenido": "Tú, que haces brillar el corazón como el cobre reluciente\nhas prendido en mí el fuego de Inanna. 🔥\nEn el lecho de cedro perfumado,\nnuestros suspiros se unen al viento del Éufrates. 🌊\n\nQue el dios Luna sea testigo:\nen tus brazos encuentro la cosecha\nque alimenta mi alma marchita. 🌾"
+    },
+    {
+      "titulo": "La rama de cerezo 🍒",
+      "autor": "Yosano Akiko",
+      "origen": "Japón, 1901",
+      "contenido": "Mi cuerpo es nieve derretida\nbajo tu sol de primavera temprana. ☀️\nEn la almohada compartida,\ncaen pétalos de la noche en vana.\n\n¿Escuchas? El ruiseñor canta\nnuestra historia de mil lunas pasadas.\nEntre kimonos desatados,\nflorece el cerezo de nuestra alborada. 🌸"
+    },
+    {
+      "titulo": "Carta de Safo a Anactoria 📜",
+      "autor": "Safo de Lesbos",
+      "origen": "Antigua Grecia, siglo VI a.C.",
+      "contenido": "Aunque brillen los carros de Lidia recamados en oro,\nninguno iguala tu andar sobre la espuma. 🌊\n\nAunque las nubes tejen mantos púrpuras,\nprefiero el rubor de tu risa tras el vino. 🍷\n\nCuando la noche ciñe su diadema de estrellas,\ninvoco a Afrodita: ¡devuélveme su aroma a almizcle y trigo! 🌾"
+    },
+    {
+      "titulo": "Elegía del adiós incompleto 🕊️",
+      "autor": "Clara Montes",
+      "origen": "Argentina, 1999",
+      "contenido": "Te fuiste con la lluvia de abril\npero dejaste tu sombra en mi alcoba. ☔\nAhora converso con tus huellas\nsobre las sábanas deshabitadas. 🛏️\n\nEl reloj repite tu nombre\nen cada tic-tac de ausencia. ⏳\nY yo, aprendiz de fantasma,\nreconstruyo tu voz con versos de nostalgia. 📖"
+    },
+    {
+      "titulo": "Piedra de sol ☀️",
+      "autor": "Octavio Paz",
+      "origen": "México, 1957",
+      "contenido": "Un sauce de cristal, un chopo de agua,\nun alto surtidor que el viento arquea,\nun árbol bien plantado mas danzante,\nun caminar de río que se curva. 🌳\n\nAvanzas, sigues y me desenredas\nmientras la muerte acecha en tus pupilas\npara nacer de nuevo en cada beso. 💋"
+    },
+    {
+      "titulo": "Balada del marido soldado ⚔️",
+      "autor": "Poema popular chino",
+      "origen": "Dinastía Tang, siglo VIII",
+      "contenido": "Tejeré tu armadura con hilos de luna llena 🌕\ny forjaré tu espada con suspiros de magnolia.\nEn cada golpe recuerda: mi corazón late\ndetrás del acero frío, como tambor lejano. 🥁\n\nSi caes en el campo de batalla,\nrecoge mi cabello como estandarte\ny regresa a casa entre ciruelos florecidos. 🏯"
+    },
+    {
+      "titulo": "Cenizas y gardenias 🌺",
+      "autor": "Alfonsina Storni",
+      "origen": "Argentina, 1938",
+      "contenido": "Quise pintar nuestro amor con acuarelas,\npero se volvió óleo espeso y tempestad. 🎨\nHoy barro las cenizas de lo que fuimos\nmientras planto gardenias en tu ausencia. 🪴\n\nNo me digas dónde termina el camino:\nprefiero perderme en tus laberintos\nque hallar salida en otros brazos. 🧩"
+    },
+    {
+      "titulo": "Oda al amor en tiempos de guerra 💌",
+      "autor": "Anónimo",
+      "origen": "Guerra Civil Española, 1937",
+      "contenido": "Escribo estas líneas entre explosiones,\ntu foto guardada junto a la metralla. 💣\nCada bala que silba recita tu nombre,\ncada herida sangra versos de tu pelo. 🩸\n\nSi esta carta llega manchada de barro,\nsabe que fue abrigo en trincheras frías\ny testigo de cómo tu amor me hizo invencible. 🛡️"}
+  ]}

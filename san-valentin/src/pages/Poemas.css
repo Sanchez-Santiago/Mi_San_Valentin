@@ -1,0 +1,84 @@
+/* Poemas.css */
+.poemas-container {
+  font-family: 'Arial', sans-serif;
+  background-color: #dd91d9;
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.poema {
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 2.5rem;
+  color: #ff69b4;
+}
+
+h2 {
+  font-size: 2rem;
+  color: #2c3e50;
+  font-style: normal; /* Título sin cursiva */
+}
+
+p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+/* Contenido del poema en cursiva */
+.poema p {
+  white-space: pre-line;
+  text-align: left;
+  margin: 20px 0;
+  padding: 15px;
+  background-color: #f07a7a;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  font-style: italic; /* Texto en cursiva */
+}
+
+/* Autor y origen sin cursiva */
+.poema p strong {
+  font-style: normal; /* Mantener sin cursiva */
+}
+
+.controles-navegacion {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.btn-anterior,
+.btn-siguiente {
+  padding: 12px 24px;
+  background-color: #ff69b4;
+  color: white;
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+  font-size: 1.1rem;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.btn-anterior:hover,
+.btn-siguiente:hover {
+  background-color: #ff4c98;
+  transform: scale(1.05);
+}
+
+.btn-anterior:active,
+.btn-siguiente:active {
+  transform: scale(0.95);
+}
+
+.btn-anterior {
+  margin-right: 10px;
+}
+
+.btn-siguiente {
+  margin-left: 10px;
+}
